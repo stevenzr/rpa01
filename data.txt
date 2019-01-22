@@ -1,0 +1,33 @@
+- Color: Grey
+
+- Display: 13.3 inch Retina Display, LED-backlit with IPS
+
+- Processor: 2.3Ghz Dual, Intel Core i5
+
+- Storage: 128 GB PCIe-based onboard SSD
+
+- Memory: 8GB of 2133MHz LPDDR3 onboard
+
+- Graphics: Intel Iris Graphics 640
+
+- Wi-Fi: 802.11ac Wi-Fi wireless networking; IEEE 802.11a/b/g/n compatible
+
+- Bluetooth: Bluetooth 4.2 wireless technology
+
+- Camera: 720p FaceTime Camera
+
+- Audio: Stereo speakers, dual microphones, 3.5mm headphone jack
+
+- Battery: Built-in 54.5-watt-hour lithium-polymer
+
+- Power: 61W USB-C Power Adapter
+
+- Line voltage: 100V to 240V AC
+
+- Frequency: 50-60Hz
+
+- Size: 30.41 x 21.24 x 1.49 cm
+
+- Weight: 1.37 kg
+
+- Operating system: MacOS Sierra
